@@ -1,13 +1,8 @@
 hello javao
-hello javao
-hello javao
-q
-：q
-：qw
-ao
-
-
-ao
+hello javhello
+public void main(string args[]){
+system.out.printlnP(123);
+}
 
 
 
